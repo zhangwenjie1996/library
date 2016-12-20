@@ -1,5 +1,5 @@
 {
-  "name": "sparrow",
+  "name": "zwj-sparrow",
   "version": "1.0.0",
   "description": "sparrow",
   "main":"lib/sparrow.js",
